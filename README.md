@@ -19,12 +19,11 @@ I'm an **aspiring Full-Stack Developer** passionate about building scalable web 
 
 | Category         | Technologies |
 |------------------|--------------|
-| **Languages**     | Java, JavaScript, TypeScript (learning) |
-| **Frontend**      | React.js, HTML5, CSS3, Tailwind CSS |
+| **Languages**     | Java, JavaScript, Python (basics) |
+| **Frontend**      | React.js, HTML5, CSS3 |
 | **Backend**       | Spring Boot, REST APIs, JPA/Hibernate |
-| **Databases**     | MySQL, PostgreSQL, MongoDB (basics) |
-| **Tools**         | Git & GitHub, VS Code, Postman, IntelliJ IDEA |
-| **Learning**      | Microservices, Docker, AWS (basics), Testing (JUnit, Jest) |
+| **Databases**     | MySQL, MongoDB (basics) |
+| **Tools**         | Git & GitHub, Eclipse, VS Code, Postman |
 
 ---
 
